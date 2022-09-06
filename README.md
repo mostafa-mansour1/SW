@@ -10,8 +10,8 @@ open the url to check live version of the app ['http://ec2-44-204-149-160.comput
 
 ## Init
 
-Run `cd server && npm install && cd ../` to install nodeJs dependencies.
-Run `cd front && npm install && cd ../` to install reactJs dependencies.
+- Run `cd server && npm install && cd ../` to install nodeJs dependencies.
+- Run `cd front && npm install && cd ../` to install reactJs dependencies.
 
 ## Build
 
