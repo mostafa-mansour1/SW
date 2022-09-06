@@ -1,0 +1,26 @@
+.bigAvatar {
+  width: 60px;
+  height: 60px;
+}
+
+.bigAvatar .firstLetters {
+  font-size: larger;
+}
+
+.titleBG {
+
+  width: 100%;
+  height: 150px;
+  display: flex;
+  align-items: center;
+
+  overflow: hidden;
+}
+
+.titleBG span {
+  width: 100%;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  text-shadow: 0px 0px 20px #fff;
+}
