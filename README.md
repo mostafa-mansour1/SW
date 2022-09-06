@@ -22,7 +22,7 @@ open the url to check live demo version of the app (http://ec2-44-204-149-160.co
 
 ## Run
 
-- (optional) edit `.env` to change the port and allowed cors and the excel file, be sure to move the file into dist folder
+- (optional) edit `.env` to change the port
 - Run `node server/dist/index.js`
 
 ## endpoints
