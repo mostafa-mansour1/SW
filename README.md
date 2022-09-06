@@ -10,6 +10,7 @@ open the url to check live demo version of the app (http://ec2-44-204-149-160.co
 
 ## Init
 
+- Run `git clone https://github.com/mostafa-mansour1/SW.git`
 - Run `cd server && npm install && cd ../` to install nodeJs dependencies.
 - Run `cd front && npm install && cd ../` to install reactJs dependencies.
 
