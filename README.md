@@ -6,7 +6,7 @@ and a ReactJS application to serve the data
 
 ## Demo
 
-open the url to check live version of the app ['http://ec2-44-204-149-160.compute-1.amazonaws.com:9080'](Demo)
+open the url to check live demo version of the app (http://ec2-44-204-149-160.compute-1.amazonaws.com:9080)
 
 ## Init
 
